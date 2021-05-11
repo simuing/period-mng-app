@@ -1,0 +1,6 @@
+module Pods_PeriodMngApp {
+  umbrella header "Pods-PeriodMngApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
